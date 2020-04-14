@@ -38,3 +38,9 @@
 *.tab
 *.hst
 *.vtk
+
+# VisIt related files
+*.session
+*.gui
+*.jpeg
+*.png
