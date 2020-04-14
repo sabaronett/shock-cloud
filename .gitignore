@@ -30,6 +30,11 @@
 *.exe
 *.out
 *.app
+
+# VS Code related
+*.code-workspace
+
+# Athena++ output files
 *.tab
 *.hst
-*.code-workspace
+*.vtk
