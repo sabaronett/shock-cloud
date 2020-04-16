@@ -45,3 +45,6 @@
 *.jpeg
 *.png
 *.Identifier
+
+# Jupyter checkpoints
+*.ipynb_checkpoints
