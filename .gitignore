@@ -45,6 +45,8 @@
 *.jpeg
 *.png
 *.Identifier
+join_all_vtk.sh
+join_vtk++
 
 # Jupyter checkpoints
 *.ipynb_checkpoints
